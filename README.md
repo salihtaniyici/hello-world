@@ -1,3 +1,3 @@
 # hello-world
-my first repository
-# Hello,my name is Salih TANIYICI
+My first repository
+# Hello World!
